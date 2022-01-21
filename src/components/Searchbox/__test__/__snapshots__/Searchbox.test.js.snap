@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rendering Searchbox Component should render input with variation 1`] = `
+.c0 {
+  width: 100%;
+  border: 2px solid #969696;
+  border-radius: 50px;
+  padding: 12px 30px;
+  background: transparent;
+}
+
+.c0:hover {
+  border-color: #808080;
+}
+
+.c0:focus {
+  outline: none !important;
+  border-color: #FF7B51;
+}
+
+<input
+  class="c0 input-search"
+  data-testid="input-search"
+  placeholder="search"
+  type="text"
+  value=""
+/>
+`;
