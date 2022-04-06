@@ -1,5 +1,6 @@
 ## Table of contents
 * [General info](#general-info)
+* [Preview](#preview)
 * [Prototype](#prototype)
 * [Prerequisites](#prerequisites)
 * [Setup](#setup)
@@ -8,6 +9,11 @@
 
 ## General info
 <b>Jumia News</b> is a news page that keeps you updated with the news published by the New York Times
+
+## Preview
+https://user-images.githubusercontent.com/24654062/162093112-974346c1-2b0d-4392-b90f-c8138f439c16.mp4
+
+
 
 ### Prototype
 * [Figma](https://www.figma.com/file/EK2FHvVSt97OqtaVwla3iz/Jumia-News?node-id=0%3A1)
