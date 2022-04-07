@@ -77,5 +77,5 @@ npm run e2e-test
 ```
 
 ## Aditional Information
-
+ 
 If you want to know more about the behaviour of an especific component please check the folder of the component, there is a `.md` file with information about the component
